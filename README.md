@@ -57,7 +57,7 @@ To get started with these React.js projects, follow these simple steps:
 Here is a list of React.js projects included in this repository:
 
 1. **Project 1: Birthday Reminder - Easy**
-2. **Project Name 2: Tours - Easy**
+2. **Project 2: Tours - Easy**
    
 
 ## Contributing
