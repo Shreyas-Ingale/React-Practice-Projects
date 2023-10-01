@@ -61,6 +61,7 @@ Here is a list of React.js projects included in this repository:
 3. **Project 3: Reviews**
 4. **Project 4: Accordian**   
 5. **Project 5: Menu**
+6. **Project 5: Tabs**
 
 ## Contributing
 
