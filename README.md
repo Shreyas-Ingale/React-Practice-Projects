@@ -1,8 +1,6 @@
 # React-Practice-Projects
 
-# React JS Projects Repository
-
-Welcome to the React JS Projects Repository! This repository contains a collection of React.js projects and examples to help you learn and explore the world of React development. Whether you're a beginner looking to get started with React or an experienced developer looking for inspiration, you'll find a variety of projects here to suit your needs.
+Welcome! This repository contains a collection of React.js projects and examples to help you learn and explore the world of React development. Whether you're a beginner looking to get started with React or an experienced developer looking for inspiration, you'll find a variety of projects here to suit your needs.
 
 ## Table of Contents
 
