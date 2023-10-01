@@ -61,6 +61,7 @@ Here is a list of React.js projects included in this repository:
 5. **Project 5: Menu**
 6. **Project 6: Tabs**
 7. **Project 7: Slider**
+8. **Project 8: Lorem Ipsum**
 
 ## Contributing
 
