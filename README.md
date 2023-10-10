@@ -28,8 +28,11 @@ To get started with these React.js projects, follow these simple steps:
 3. **Choose a Project:**
 
    Browse the list of projects in this repository and choose the one you're interested in.
+   ```bash
+   cd "Project_Name"
+   ```
 
-4. **Install Dependencies:**
+5. **Install Dependencies:**
 
    Each project may have its own set of dependencies. Navigate to the project's directory and install them using npm or yarn.
 
@@ -38,7 +41,7 @@ To get started with these React.js projects, follow these simple steps:
    npm install
    ```
 
-5. **Run the Project:**
+6. **Run the Project:**
 
    Start the development server for the project.
 
@@ -46,7 +49,7 @@ To get started with these React.js projects, follow these simple steps:
    npm start
    ```
 
-6. **Open in Your Browser:**
+7. **Open in Your Browser:**
 
    Open your web browser and go to `http://localhost:3000` (or another port specified by the project) to see the project in action.
 
