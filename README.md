@@ -32,16 +32,15 @@ To get started with these React.js projects, follow these simple steps:
    cd "Project_Name"
    ```
 
-5. **Install Dependencies:**
+4. **Install Dependencies:**
 
-   Each project may have its own set of dependencies. Navigate to the project's directory and install them using npm or yarn.
+   Each project may have its own set of dependencies. Install them using npm or yarn.
 
    ```bash
-   cd project-name
    npm install
    ```
 
-6. **Run the Project:**
+5. **Run the Project:**
 
    Start the development server for the project.
 
@@ -49,7 +48,7 @@ To get started with these React.js projects, follow these simple steps:
    npm start
    ```
 
-7. **Open in Your Browser:**
+6. **Open in Your Browser:**
 
    Open your web browser and go to `http://localhost:3000` (or another port specified by the project) to see the project in action.
 
