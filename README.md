@@ -16,13 +16,13 @@ To get started with these React.js projects, follow these simple steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-projects.git
+   git clone https://github.com/Shreyas-Ingale/React-Practice-Projects.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd react-projects
+   cd React-Practice-Projects
    ```
 
 3. **Choose a Project:**
